@@ -1,6 +1,7 @@
 # security-engineering-tools
 
 A collection of Python-based security engineering tools for automation, detection, and analysis, including hash verification, DNS checks, network connectivity testing, and VPN alert generation.
+These tools were initially developed for an OpenSearch‑based SIEM and Jira as the ticketing platform. They serve as a solid starting point and can be easily adapted to any SIEM solution or ticketing system used in your environment.
 
 ## AI-Assisted Alert Logic
 
